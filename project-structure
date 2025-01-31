@@ -1,0 +1,23 @@
+src/
+  ├── assets/
+  │   ├── images/
+  │   └── icons/
+  ├── styles/
+  │   ├── base/
+  │   │   ├── _reset.css
+  │   │   └── _variables.css
+  │   ├── components/
+  │   │   ├── _navbar.css
+  │   │   ├── _hero.css
+  │   │   ├── _products.css
+  │   │   └── _footer.css
+  │   └── main.css
+  ├── js/
+  │   ├── components/
+  │   │   └── slider.js
+  │   └── main.js
+  └── sections/
+      ├── header.html
+      ├── hero.html
+      ├── products.html
+      └── footer.html 
